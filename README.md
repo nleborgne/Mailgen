@@ -1,6 +1,6 @@
 # Mailgen
 
-Create free usable email addresses using https://generator.email/
+Generate free usable email addresses (uptime 1 day) using https://generator.email/
 
 
 ## Installation
