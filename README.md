@@ -1,16 +1,16 @@
 # Mailgen
 
-Create free usable email addresses using httpsgenerator.email
+Create free usable email addresses using https://generator.email/
 
 
 ## Installation
  
-- Clone repository `git clone httpsgithub.comnleborgneMailgen.git`
+- Clone repository `git clone https://github.comnleborgne/Mailgen.git`
 
 - Launch mailgen.py `python mailgen.py`
 
 ## Requirements
-- Python 2 .7  visit httpswww.python.org
+- Python 2 .7  visit https://www.python.org/
 
 - lxml  `pip install lxml`
 
