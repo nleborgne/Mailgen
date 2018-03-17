@@ -26,11 +26,9 @@ def getEmail(url):
             page = requests.get(url)
             tree = html.fromstring(page.content)
         except:
-            print("Connection refused by the server..")
-            print("Let me sleep for 5 seconds")
-            print("ZZzzzz...")
+            print("Connection refused by the server")
+            print("Trying again in 5 seconds..")
             time.sleep(5)
-            print("Was a nice sleep, now let me continue...")
             continue
     email = tree.xpath('//span[@id="email_ch_text"]/text()')
     return email
