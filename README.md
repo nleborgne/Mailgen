@@ -15,4 +15,4 @@ Generate free usable email addresses (uptime 1 day) using https://generator.emai
 - lxml  `pip install lxml`
 
 - requests  `pip install requests`
-- colorama  `pip intall colorama`
+- colorama  `pip install colorama`
